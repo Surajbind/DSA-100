@@ -1,2 +1,1 @@
-# Striver-A2Z-DSA
-DSA Sheet Solution using JAVA
+#DSA 100 Sheet Solution using JAVASCRIPT
